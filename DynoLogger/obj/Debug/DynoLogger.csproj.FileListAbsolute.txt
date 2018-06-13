@@ -1,0 +1,8 @@
+c:\users\vuwal\documents\visual studio 2015\Projects\DynoLogger\DynoLogger\bin\Debug\DynoLogger.exe.config
+C:\Users\VUWAL\Documents\Visual Studio 2015\Projects\DynoLogger\DynoLogger\obj\Debug\DynoLogger.csprojResolveAssemblyReference.cache
+C:\Users\VUWAL\Documents\Visual Studio 2015\Projects\DynoLogger\DynoLogger\bin\Debug\DynoLogger.exe
+C:\Users\VUWAL\Documents\Visual Studio 2015\Projects\DynoLogger\DynoLogger\bin\Debug\DynoLogger.pdb
+C:\Users\VUWAL\Documents\Visual Studio 2015\Projects\DynoLogger\DynoLogger\bin\Debug\MccDaq.dll
+C:\Users\VUWAL\Documents\Visual Studio 2015\Projects\DynoLogger\DynoLogger\bin\Debug\MccDaq.xml
+C:\Users\VUWAL\Documents\Visual Studio 2015\Projects\DynoLogger\DynoLogger\obj\Debug\DynoLogger.exe
+C:\Users\VUWAL\Documents\Visual Studio 2015\Projects\DynoLogger\DynoLogger\obj\Debug\DynoLogger.pdb
